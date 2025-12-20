@@ -10,19 +10,21 @@
         "usucre": "admin",
         "feccre": "2024-06-10T12:00:00Z",
         "detall": {
-            "tpacti": "001", "detall": [
+            "tpacti": "001",
+            "detall": [
                 {
                     "iddaal": "DET001",
                     "idpalc": "289832",
                     "produc": {
-                        "codpro": "482987283",
-                        "nompro": "HELADO DONOFRIO SABOR VAINILLA PRESENTACION 1 LITRO",
-                        "medanc": 10,
-                        "medlar": 15,
+                        "codpro": "874529100",
+                        "nompro": "ACEITE COCINERO 1L",
+                        "medanc": 12,
+                        "medlar": 14,
                         "medalt": 20,
-                        "emppes": 5,
+                        "emppes": 6,
                         "imagen": "",
-                        "pzacnv": 24
+                        "pzacnv": 18,
+                        "codean": 775894512301
                     },
                     "canpro": 10,
                     "coduni": "CJ",
@@ -34,14 +36,15 @@
                     "iddaal": "DET002",
                     "idpalc": "289832",
                     "produc": {
-                        "codpro": "482987283",
-                        "nompro": "HELADO DONOFRIO SABOR VAINILLA PRESENTACION 1 LITRO",
-                        "medanc": 10,
-                        "medlar": 15,
-                        "medalt": 20,
-                        "emppes": 5,
+                        "codpro": "984512377",
+                        "nompro": "ARROZ COSTEÑO EXTRA 5KG",
+                        "medanc": 18,
+                        "medlar": 25,
+                        "medalt": 40,
+                        "emppes": 1,
                         "imagen": "",
-                        "pzacnv": 24
+                        "pzacnv": 8,
+                        "codean": 775623984265
                     },
                     "canpro": 10,
                     "coduni": "CJ",
@@ -63,11 +66,11 @@
         "usucre": "admin",
         "feccre": "2024-06-10T12:00:00Z",
         "detall": {
-            "tpacti": "002", "detall": [
+            "tpacti": "002",
+            "detall": [
                 {
                     "iddaal": "DET003",
                     "idpalc": "289833",
-
                     "idrcaf": "RACK001",
                     "idcbaf": "CUB001",
                     "fposcx": 1,
@@ -87,16 +90,15 @@
         "usucre": "admin",
         "feccre": "2024-06-10T12:00:00Z",
         "detall": {
-            "tpacti": "003", "detall": [
+            "tpacti": "003",
+            "detall": [
                 {
                     "iddaal": "DET004",
                     "idpalc": "289833",
-
                     "idrcai": "RACK002",
                     "idcbai": "CUB002",
                     "iposcx": 2,
                     "iposcy": 2,
-
                     "idcbaf": "CUB003",
                     "idrcaf": "RACK003",
                     "fposcx": 1,
@@ -105,12 +107,10 @@
                 {
                     "iddaal": "DET005",
                     "idpalc": "289833",
-
                     "idrcai": "RACK002",
                     "idcbai": "CUB002",
                     "iposcx": 2,
                     "iposcy": 2,
-
                     "idcbaf": "CUB003",
                     "idrcaf": "RACK003",
                     "fposcx": 1,
@@ -119,12 +119,10 @@
                 {
                     "iddaal": "DET006",
                     "idpalc": "289833",
-
                     "idrcai": "RACK002",
                     "idcbai": "CUB002",
                     "iposcx": 2,
                     "iposcy": 2,
-
                     "idcbaf": "CUB003",
                     "idrcaf": "RACK003",
                     "fposcx": 1,
@@ -144,21 +142,22 @@
         "usucre": "admin",
         "feccre": "2024-06-10T12:00:00Z",
         "detall": {
-            "tpacti": "004", "detall": [
+            "tpacti": "004",
+            "detall": [
                 {
                     "iddaal": "DET006",
                     "idpalc": "289834",
-
                     "sigtrn": "-",
                     "produc": {
-                        "codpro": "482987283",
-                        "nompro": "HELADO DONOFRIO SABOR VAINILLA PRESENTACION 1 LITRO",
-                        "medanc": 10,
-                        "medlar": 15,
-                        "medalt": 20,
-                        "emppes": 5,
+                        "codpro": "746510236",
+                        "nompro": "GASEOSA INCA KOLA 3L",
+                        "medanc": 22,
+                        "medlar": 26,
+                        "medalt": 30,
+                        "emppes": 4,
                         "imagen": "",
-                        "pzacnv": 24
+                        "pzacnv": 6,
+                        "codean": 775829301254
                     },
                     "canpro": 2,
                     "coduni": "CJ",
@@ -167,7 +166,6 @@
                 {
                     "iddaal": "DET007",
                     "idpalc": "289834",
-
                     "sigtrn": "-",
                     "produc": {
                         "codpro": "482987283",
@@ -177,7 +175,8 @@
                         "medalt": 20,
                         "emppes": 5,
                         "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQemA5V80o4Ijn2SsNMSIchGpwZz3YC3IB_qw&s",
-                        "pzacnv": 24
+                        "pzacnv": 24,
+                        "codean": 978020137962
                     },
                     "canpro": 2,
                     "coduni": "CJ",
@@ -186,7 +185,6 @@
                 {
                     "iddaal": "DET008",
                     "idpalc": "289834",
-
                     "sigtrn": "-",
                     "produc": {
                         "codpro": "482987283",
@@ -196,7 +194,8 @@
                         "medalt": 20,
                         "emppes": 5,
                         "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQemA5V80o4Ijn2SsNMSIchGpwZz3YC3IB_qw&s",
-                        "pzacnv": 24
+                        "pzacnv": 24,
+                        "codean": 978020137962
                     },
                     "canpro": 2,
                     "coduni": "CJ",
@@ -205,7 +204,6 @@
             ]
         }
     },
-
     {
         "codcia": "029",
         "coddiv": "001",
@@ -217,19 +215,21 @@
         "usucre": "admin",
         "feccre": "2024-06-10T12:00:00Z",
         "detall": {
-            "tpacti": "001", "detall": [
+            "tpacti": "001",
+            "detall": [
                 {
                     "iddaal": "DET001",
                     "idpalc": "289832",
                     "produc": {
-                        "codpro": "482987283",
-                        "nompro": "HELADO DONOFRIO SABOR VAINILLA PRESENTACION 1 LITRO",
-                        "medanc": 10,
-                        "medlar": 15,
-                        "medalt": 20,
-                        "emppes": 5,
+                        "codpro": "874569320",
+                        "nompro": "YOGURT LAIVE FRESA 1L",
+                        "medanc": 12,
+                        "medlar": 18,
+                        "medalt": 30,
+                        "emppes": 8,
                         "imagen": "",
-                        "pzacnv": 24
+                        "pzacnv": 6,
+                        "codean": 775800369521
                     },
                     "canpro": 10,
                     "coduni": "CJ",
@@ -241,14 +241,15 @@
                     "iddaal": "DET002",
                     "idpalc": "289832",
                     "produc": {
-                        "codpro": "482987283",
-                        "nompro": "HELADO DONOFRIO SABOR VAINILLA PRESENTACION 1 LITRO",
-                        "medanc": 10,
-                        "medlar": 15,
-                        "medalt": 20,
-                        "emppes": 5,
+                        "codpro": "998741256",
+                        "nompro": "AZÚCAR RUBIA 50KG",
+                        "medanc": 30,
+                        "medlar": 40,
+                        "medalt": 60,
+                        "emppes": 1,
                         "imagen": "",
-                        "pzacnv": 24
+                        "pzacnv": 1,
+                        "codean": 775002365498
                     },
                     "canpro": 10,
                     "coduni": "CJ",
@@ -270,11 +271,11 @@
         "usucre": "admin",
         "feccre": "2024-06-10T12:00:00Z",
         "detall": {
-            "tpacti": "002", "detall": [
+            "tpacti": "002",
+            "detall": [
                 {
                     "iddaal": "DET003",
                     "idpalc": "289833",
-
                     "idrcaf": "RACK001",
                     "idcbaf": "CUB001",
                     "fposcx": 1,
@@ -294,16 +295,15 @@
         "usucre": "admin",
         "feccre": "2024-06-10T12:00:00Z",
         "detall": {
-            "tpacti": "003", "detall": [
+            "tpacti": "003",
+            "detall": [
                 {
                     "iddaal": "DET004",
                     "idpalc": "289833",
-
                     "idrcai": "RACK002",
                     "idcbai": "CUB002",
                     "iposcx": 2,
                     "iposcy": 2,
-
                     "idcbaf": "CUB003",
                     "idrcaf": "RACK003",
                     "fposcx": 1,
@@ -312,12 +312,10 @@
                 {
                     "iddaal": "DET005",
                     "idpalc": "289833",
-
                     "idrcai": "RACK002",
                     "idcbai": "CUB002",
                     "iposcx": 2,
                     "iposcy": 2,
-
                     "idcbaf": "CUB003",
                     "idrcaf": "RACK003",
                     "fposcx": 1,
@@ -326,12 +324,10 @@
                 {
                     "iddaal": "DET006",
                     "idpalc": "289833",
-
                     "idrcai": "RACK002",
                     "idcbai": "CUB002",
                     "iposcx": 2,
                     "iposcy": 2,
-
                     "idcbaf": "CUB003",
                     "idrcaf": "RACK003",
                     "fposcx": 1,
@@ -351,21 +347,22 @@
         "usucre": "admin",
         "feccre": "2024-06-10T12:00:00Z",
         "detall": {
-            "tpacti": "004", "detall": [
+            "tpacti": "004",
+            "detall": [
                 {
                     "iddaal": "DET006",
                     "idpalc": "289834",
-
                     "sigtrn": "-",
                     "produc": {
-                        "codpro": "482987283",
-                        "nompro": "HELADO DONOFRIO SABOR VAINILLA PRESENTACION 1 LITRO",
-                        "medanc": 10,
-                        "medlar": 15,
-                        "medalt": 20,
-                        "emppes": 5,
+                        "codpro": "623598741",
+                        "nompro": "LECHE GLORIA ENTERA 1L",
+                        "medanc": 15,
+                        "medlar": 12,
+                        "medalt": 25,
+                        "emppes": 12,
                         "imagen": "",
-                        "pzacnv": 24
+                        "pzacnv": 12,
+                        "codean": 775063148900
                     },
                     "canpro": 2,
                     "coduni": "CJ",
@@ -374,7 +371,6 @@
                 {
                     "iddaal": "DET007",
                     "idpalc": "289834",
-
                     "sigtrn": "-",
                     "produc": {
                         "codpro": "482987283",
@@ -384,7 +380,8 @@
                         "medalt": 20,
                         "emppes": 5,
                         "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQemA5V80o4Ijn2SsNMSIchGpwZz3YC3IB_qw&s",
-                        "pzacnv": 24
+                        "pzacnv": 24,
+                        "codean": 978020137962
                     },
                     "canpro": 2,
                     "coduni": "CJ",
@@ -393,7 +390,6 @@
                 {
                     "iddaal": "DET008",
                     "idpalc": "289834",
-
                     "sigtrn": "-",
                     "produc": {
                         "codpro": "482987283",
@@ -403,7 +399,8 @@
                         "medalt": 20,
                         "emppes": 5,
                         "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQemA5V80o4Ijn2SsNMSIchGpwZz3YC3IB_qw&s",
-                        "pzacnv": 24
+                        "pzacnv": 24,
+                        "codean": 978020137962
                     },
                     "canpro": 2,
                     "coduni": "CJ",
@@ -412,8 +409,6 @@
             ]
         }
     },
-
-
     {
         "codcia": "029",
         "coddiv": "001",
@@ -425,19 +420,21 @@
         "usucre": "admin",
         "feccre": "2024-06-10T12:00:00Z",
         "detall": {
-            "tpacti": "001", "detall": [
+            "tpacti": "001",
+            "detall": [
                 {
                     "iddaal": "DET001",
                     "idpalc": "289832",
                     "produc": {
-                        "codpro": "482987283",
-                        "nompro": "HELADO DONOFRIO SABOR VAINILLA PRESENTACION 1 LITRO",
-                        "medanc": 10,
-                        "medlar": 15,
-                        "medalt": 20,
-                        "emppes": 5,
+                        "codpro": "556478900",
+                        "nompro": "GALLETAS SODA FIELD 12 PACK",
+                        "medanc": 16,
+                        "medlar": 10,
+                        "medalt": 12,
+                        "emppes": 10,
                         "imagen": "",
-                        "pzacnv": 24
+                        "pzacnv": 24,
+                        "codean": 775895412367
                     },
                     "canpro": 10,
                     "coduni": "CJ",
@@ -456,7 +453,8 @@
                         "medalt": 20,
                         "emppes": 5,
                         "imagen": "",
-                        "pzacnv": 24
+                        "pzacnv": 24,
+                        "codean": 978020137962
                     },
                     "canpro": 10,
                     "coduni": "CJ",
@@ -478,11 +476,11 @@
         "usucre": "admin",
         "feccre": "2024-06-10T12:00:00Z",
         "detall": {
-            "tpacti": "002", "detall": [
+            "tpacti": "002",
+            "detall": [
                 {
                     "iddaal": "DET003",
                     "idpalc": "289833",
-
                     "idrcaf": "RACK001",
                     "idcbaf": "CUB001",
                     "fposcx": 1,
@@ -502,16 +500,15 @@
         "usucre": "admin",
         "feccre": "2024-06-10T12:00:00Z",
         "detall": {
-            "tpacti": "003", "detall": [
+            "tpacti": "003",
+            "detall": [
                 {
                     "iddaal": "DET004",
                     "idpalc": "289833",
-
                     "idrcai": "RACK002",
                     "idcbai": "CUB002",
                     "iposcx": 2,
                     "iposcy": 2,
-
                     "idcbaf": "CUB003",
                     "idrcaf": "RACK003",
                     "fposcx": 1,
@@ -520,12 +517,10 @@
                 {
                     "iddaal": "DET005",
                     "idpalc": "289833",
-
                     "idrcai": "RACK002",
                     "idcbai": "CUB002",
                     "iposcx": 2,
                     "iposcy": 2,
-
                     "idcbaf": "CUB003",
                     "idrcaf": "RACK003",
                     "fposcx": 1,
@@ -534,12 +529,10 @@
                 {
                     "iddaal": "DET006",
                     "idpalc": "289833",
-
                     "idrcai": "RACK002",
                     "idcbai": "CUB002",
                     "iposcx": 2,
                     "iposcy": 2,
-
                     "idcbaf": "CUB003",
                     "idrcaf": "RACK003",
                     "fposcx": 1,
@@ -559,21 +552,22 @@
         "usucre": "admin",
         "feccre": "2024-06-10T12:00:00Z",
         "detall": {
-            "tpacti": "004", "detall": [
+            "tpacti": "004",
+            "detall": [
                 {
                     "iddaal": "DET006",
                     "idpalc": "289834",
-
                     "sigtrn": "-",
                     "produc": {
-                        "codpro": "482987283",
-                        "nompro": "HELADO DONOFRIO SABOR VAINILLA PRESENTACION 1 LITRO",
-                        "medanc": 10,
-                        "medlar": 15,
+                        "codpro": "771234508",
+                        "nompro": "PAPEL HIGIÉNICO SUAVE x 12",
+                        "medanc": 30,
+                        "medlar": 25,
                         "medalt": 20,
-                        "emppes": 5,
+                        "emppes": 6,
                         "imagen": "",
-                        "pzacnv": 24
+                        "pzacnv": 6,
+                        "codean": 784512963025
                     },
                     "canpro": 2,
                     "coduni": "CJ",
@@ -582,7 +576,6 @@
                 {
                     "iddaal": "DET007",
                     "idpalc": "289834",
-
                     "sigtrn": "-",
                     "produc": {
                         "codpro": "482987283",
@@ -592,7 +585,8 @@
                         "medalt": 20,
                         "emppes": 5,
                         "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQemA5V80o4Ijn2SsNMSIchGpwZz3YC3IB_qw&s",
-                        "pzacnv": 24
+                        "pzacnv": 24,
+                        "codean": 978020137962
                     },
                     "canpro": 2,
                     "coduni": "CJ",
@@ -601,7 +595,6 @@
                 {
                     "iddaal": "DET008",
                     "idpalc": "289834",
-
                     "sigtrn": "-",
                     "produc": {
                         "codpro": "482987283",
@@ -611,7 +604,8 @@
                         "medalt": 20,
                         "emppes": 5,
                         "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQemA5V80o4Ijn2SsNMSIchGpwZz3YC3IB_qw&s",
-                        "pzacnv": 24
+                        "pzacnv": 24,
+                        "codean": 978020137962
                     },
                     "canpro": 2,
                     "coduni": "CJ",
@@ -620,7 +614,6 @@
             ]
         }
     },
-
     {
         "codcia": "029",
         "coddiv": "001",
@@ -632,19 +625,21 @@
         "usucre": "admin",
         "feccre": "2024-06-10T12:00:00Z",
         "detall": {
-            "tpacti": "001", "detall": [
+            "tpacti": "001",
+            "detall": [
                 {
                     "iddaal": "DET001",
                     "idpalc": "289832",
                     "produc": {
-                        "codpro": "482987283",
-                        "nompro": "HELADO DONOFRIO SABOR VAINILLA PRESENTACION 1 LITRO",
+                        "codpro": "963258741",
+                        "nompro": "SHAMPOO SEDAL 850ml",
                         "medanc": 10,
-                        "medlar": 15,
-                        "medalt": 20,
-                        "emppes": 5,
+                        "medlar": 14,
+                        "medalt": 25,
+                        "emppes": 8,
                         "imagen": "",
-                        "pzacnv": 24
+                        "pzacnv": 6,
+                        "codean": 784523698741
                     },
                     "canpro": 10,
                     "coduni": "CJ",
@@ -656,14 +651,15 @@
                     "iddaal": "DET002",
                     "idpalc": "289832",
                     "produc": {
-                        "codpro": "482987283",
-                        "nompro": "HELADO DONOFRIO SABOR VAINILLA PRESENTACION 1 LITRO",
-                        "medanc": 10,
-                        "medlar": 15,
-                        "medalt": 20,
-                        "emppes": 5,
+                        "codpro": "451278963",
+                        "nompro": "DETERGENTE ACE 2KG",
+                        "medanc": 18,
+                        "medlar": 22,
+                        "medalt": 30,
+                        "emppes": 4,
                         "imagen": "",
-                        "pzacnv": 24
+                        "pzacnv": 6,
+                        "codean": 775698412563
                     },
                     "canpro": 10,
                     "coduni": "CJ",
@@ -685,11 +681,11 @@
         "usucre": "admin",
         "feccre": "2024-06-10T12:00:00Z",
         "detall": {
-            "tpacti": "002", "detall": [
+            "tpacti": "002",
+            "detall": [
                 {
                     "iddaal": "DET003",
                     "idpalc": "289833",
-
                     "idrcaf": "RACK001",
                     "idcbaf": "CUB001",
                     "fposcx": 1,
@@ -709,16 +705,15 @@
         "usucre": "admin",
         "feccre": "2024-06-10T12:00:00Z",
         "detall": {
-            "tpacti": "003", "detall": [
+            "tpacti": "003",
+            "detall": [
                 {
                     "iddaal": "DET004",
                     "idpalc": "289833",
-
                     "idrcai": "RACK002",
                     "idcbai": "CUB002",
                     "iposcx": 2,
                     "iposcy": 2,
-
                     "idcbaf": "CUB003",
                     "idrcaf": "RACK003",
                     "fposcx": 1,
@@ -727,12 +722,10 @@
                 {
                     "iddaal": "DET005",
                     "idpalc": "289833",
-
                     "idrcai": "RACK002",
                     "idcbai": "CUB002",
                     "iposcx": 2,
                     "iposcy": 2,
-
                     "idcbaf": "CUB003",
                     "idrcaf": "RACK003",
                     "fposcx": 1,
@@ -741,12 +734,10 @@
                 {
                     "iddaal": "DET006",
                     "idpalc": "289833",
-
                     "idrcai": "RACK002",
                     "idcbai": "CUB002",
                     "iposcx": 2,
                     "iposcy": 2,
-
                     "idcbaf": "CUB003",
                     "idrcaf": "RACK003",
                     "fposcx": 1,
@@ -766,21 +757,22 @@
         "usucre": "admin",
         "feccre": "2024-06-10T12:00:00Z",
         "detall": {
-            "tpacti": "004", "detall": [
+            "tpacti": "004",
+            "detall": [
                 {
                     "iddaal": "DET006",
                     "idpalc": "289834",
-
                     "sigtrn": "-",
                     "produc": {
-                        "codpro": "482987283",
-                        "nompro": "HELADO DONOFRIO SABOR VAINILLA PRESENTACION 1 LITRO",
-                        "medanc": 10,
-                        "medlar": 15,
-                        "medalt": 20,
-                        "emppes": 5,
+                        "codpro": "325698741",
+                        "nompro": "AGUA SAN LUIS 2.5L",
+                        "medanc": 19,
+                        "medlar": 21,
+                        "medalt": 29,
+                        "emppes": 6,
                         "imagen": "",
-                        "pzacnv": 24
+                        "pzacnv": 6,
+                        "codean": 775632145987
                     },
                     "canpro": 2,
                     "coduni": "CJ",
@@ -789,7 +781,6 @@
                 {
                     "iddaal": "DET007",
                     "idpalc": "289834",
-
                     "sigtrn": "-",
                     "produc": {
                         "codpro": "482987283",
@@ -799,7 +790,8 @@
                         "medalt": 20,
                         "emppes": 5,
                         "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQemA5V80o4Ijn2SsNMSIchGpwZz3YC3IB_qw&s",
-                        "pzacnv": 24
+                        "pzacnv": 24,
+                        "codean": 978020137962
                     },
                     "canpro": 2,
                     "coduni": "CJ",
@@ -808,7 +800,6 @@
                 {
                     "iddaal": "DET008",
                     "idpalc": "289834",
-
                     "sigtrn": "-",
                     "produc": {
                         "codpro": "482987283",
@@ -818,7 +809,8 @@
                         "medalt": 20,
                         "emppes": 5,
                         "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQemA5V80o4Ijn2SsNMSIchGpwZz3YC3IB_qw&s",
-                        "pzacnv": 24
+                        "pzacnv": 24,
+                        "codean": 978020137962
                     },
                     "canpro": 2,
                     "coduni": "CJ",
