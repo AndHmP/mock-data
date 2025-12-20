@@ -1,0 +1,26 @@
+[
+    {
+      "codtip": "001",
+      "tipact": "Paletización",
+      "icotip": "pallet",
+      "coltip": "int_color_006"
+    },
+    {
+      "codtip": "002",
+      "tipact": "Colocación",
+      "icotip": "dolly-flatbed",
+      "coltip": "int_color_007"
+    },
+    {
+      "codtip": "003",
+      "tipact": "Transposición",
+      "icotip": "exchange-alt",
+      "coltip": "int_color_008"
+    },
+    {
+      "codtip": "004",
+      "tipact": "Picking",
+      "icotip": "archive",
+      "coltip": "int_color_009"
+    }
+  ]
