@@ -1,0 +1,28 @@
+[
+  {
+    "idrcal": "9000001",
+    "cdrcal": "Rack01",
+    "palanc": 100,
+    "pallar": 120,
+    "palcnx": 3,
+    "palcny": 2,
+    "cntcol": 3,
+    "cntnvl": 5,
+    "poscnx": 122.143,
+    "poscny": 83.8,
+    "rotacn": 0
+  },
+  {
+    "idrcal": "9000002",
+    "cdrcal": "Rack 02",
+    "palanc": 100,
+    "pallar": 120,
+    "palcnx": 3,
+    "palcny": 2,
+    "cntcol": 4,
+    "cntnvl": 3,
+    "poscnx": 801.536,
+    "poscny": 607.377,
+    "rotacn": 180
+  }
+]
