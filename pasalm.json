@@ -8,7 +8,7 @@
         "medanc": 300,
         "medlar": 1068.2276837871675,
         "idtpal": 1,
-        "guarda": "001",
+        "guarda": "001"
     },
     {
         "idpaal": 900001,
@@ -19,7 +19,7 @@
         "medanc": 250,
         "medlar": 843.5787189380707,
         "idtpal": 3,
-        "guarda": "001",
+        "guarda": "001"
     },
     {
         "idpaal": 900002,
@@ -30,7 +30,7 @@
         "medanc": 200,
         "medlar": 846.0829237175275,
         "idtpal": 4,
-        "guarda": "001",
+        "guarda": "001"
     },
     {
         "idpaal": 900003,
@@ -41,7 +41,7 @@
         "medanc": 200,
         "medlar": 847.8655350950303,
         "idtpal": 4,
-        "guarda": "001",
+        "guarda": "001"
     },
     {
         "idpaal": 900004,
@@ -52,6 +52,6 @@
         "medanc": 1060.7588467439368,
         "medlar": 267.099518743937,
         "idtpal": 2,
-        "guarda": "001",
+        "guarda": "001"
     }
 ]
