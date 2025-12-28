@@ -24,5 +24,31 @@
     "poscnx": 801.536,
     "poscny": 607.377,
     "rotacn": 180
+  },
+  {
+    "idrcal": "9000003",
+    "cdrcal": "Rack 03",
+    "palanc": 100,
+    "pallar": 120,
+    "palcnx": 3,
+    "palcny": 2,
+    "cntcol": 5,
+    "cntnvl": 4,
+    "poscnx": 968.732,
+    "poscny": 83.8,
+    "rotacn": 180
+  },
+  {
+    "idrcal": "9000004",
+    "cdrcal": "Rack 04",
+    "palanc": 100,
+    "pallar": 120,
+    "palcnx": 3,
+    "palcny": 2,
+    "cntcol": 6,
+    "cntnvl": 2,
+    "poscnx": 1408.391,
+    "poscny": -219.338,
+    "rotacn": 90
   }
 ]
